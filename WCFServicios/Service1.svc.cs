@@ -126,7 +126,7 @@ namespace WCFServicios
                     Precio_Producto = 3500,
                     Descuento = des };
             }
-            else if (NombreProducto == "Computadroa DELL")
+            else if (NombreProducto == "Computadora DELL")
             {
                 decimal des;
                 decimal precio;

@@ -1,0 +1,10 @@
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\bin\Debug\CantidadProductos.exe.config
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\bin\Debug\CantidadProductos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\bin\Debug\CantidadProductos.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\CantidadProductos\obj\Debug\CantidadProductos.pdb

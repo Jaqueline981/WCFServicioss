@@ -1,0 +1,10 @@
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\bin\Debug\DescuentosProductos.exe.config
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\bin\Debug\DescuentosProductos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\bin\Debug\DescuentosProductos.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\DescuentosProductos\obj\Debug\DescuentosProductos.pdb

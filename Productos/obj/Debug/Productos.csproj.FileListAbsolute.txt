@@ -1,0 +1,10 @@
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\bin\Debug\Productos.exe.config
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\bin\Debug\Productos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\bin\Debug\Productos.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Productos\obj\Debug\Productos.pdb

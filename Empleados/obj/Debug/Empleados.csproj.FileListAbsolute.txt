@@ -1,0 +1,10 @@
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\bin\Debug\Empleados.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\obj\Debug\Empleados.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empleados\bin\Debug\Empleados.exe.config

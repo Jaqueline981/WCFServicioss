@@ -1,0 +1,12 @@
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\bin\Debug\Empresas.exe.config
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\bin\Debug\Empresas.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\bin\Debug\Empresas.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.exe
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\obj\Debug\Empresas.pdb
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\bin\Debug\Empresas.exe.CodeAnalysisLog.xml
+C:\Users\Fernández Maldonado\source\repos\WCFServicios\Empresas\bin\Debug\Empresas.exe.lastcodeanalysissucceeded
