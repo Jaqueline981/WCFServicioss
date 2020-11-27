@@ -1,2 +1,0 @@
-C:\Users\Fernández Maldonado\source\repos\WCFServicios\ClienteWCF\obj\Debug\ClienteWCF.csprojAssemblyReference.cache
-C:\Users\Fernández Maldonado\source\repos\WCFServicios\ClienteWCF\obj\Debug\ClienteWCF.csproj.CoreCompileInputs.cache
